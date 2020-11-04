@@ -29,7 +29,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../luyentap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -50,6 +50,7 @@
       <updated>1604472785203</updated>
       <workItem from="1604472786294" duration="535000" />
       <workItem from="1604473774451" duration="35000" />
+      <workItem from="1604477631782" duration="668000" />
     </task>
     <servers />
   </component>
